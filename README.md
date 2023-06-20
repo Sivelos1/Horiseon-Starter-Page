@@ -22,6 +22,10 @@ Click the URL to open the webpage. Click the labels in the website's header for 
 
 If you'd like to contribute, please feel free to create an Issue on the application's GitHub repo or contact me in another fashion.
 
+## Credits
+
+This code was written by the author of the starting code recieved from the Rutgers Coding Bootcamp, with edits and changes made by me.
+
 ## Tests
 
 Please click on the text in the top of the webpage, labeled "Search Engine Optimization," "Online Reputation Management," and "Social Media Marketing". Each of these three labels should bring you to their corresponding sections that can be viewed by scrolling down to them or by clicking the label. If the label does not bring you to its corresponding section, please feel free to submit an issue to the github repo.
